@@ -1,0 +1,190 @@
+body {
+  font-family: sans-serif;
+  font-size: 16px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding: 0; 
+  background-color: #85929E; 
+  
+  background-image: url('gg.jpg'); 
+  background-size: calc(100%);   
+  background-attachment: fixed; 
+  background-repeat: no-repeat;
+}
+
+h2 { 
+  margin-top: 50px;
+  text-align: center;
+  margin-top: 0;
+}
+
+form {
+  width: 500px;
+  margin: 0 auto;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+button {
+  background-color: #000;
+  color: #fff;
+  font-weight: bold;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+}
+
+
+
+
+
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+.bg {
+
+  background-color: #899827 ;
+
+  /*background-image: url("anits.jpeg");
+
+  height: 100%; 
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;*/
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #ADF1F0;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: darkgreen;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: lightgrey;
+}
+
+
+
+
+
+.footer {
+    background: #232F3E;
+    padding: 50px 0px;
+}
+.quicklink-menu {
+    list-style:none;
+    padding-left: 10px;
+}
+.quicklink-menu li a {
+    color: #fff;
+    line-height: 2.5;
+    font-size: 15px;
+    text-decoration:none;
+}
+.social-media {
+    list-style:none;
+    margin-top:10px;
+}
+.social-media li a img {
+    width:30px;
+}
+.social-media li {
+    float:left;
+    padding:0px 8px;
+}
+.quicklink-heading {
+    font-size:18px;
+    font-weight:bold;
+    color:#fff;
+    margin-bottom:10px;
+}
+.get-in-touch {
+    list-style:none;
+    padding-left: 10px;
+}
+.get-in-touch li i {
+    color: #ed372c;
+    font-size: 20px;
+}
+.get-in-touch li {
+    color: #fff;
+    line-height: 2.5;
+    font-size: 15px;
+    text-decoration:none;
+}
+.footer-e-mail {
+    font-size:15px;
+    font-weight:bold;
+    color:#fff;
+    text-decoration:none;
+}
+.footer-website {
+    font-size:12px;
+    font-weight:bold;
+    color:#fff;
+    text-decoration:none;
+}
+/********** Footer Ends **********/
+/********** Footer Copyright Starts **********/  
+.footer2-bacbor {
+    background: #232F3E;
+    padding:10px 0px;
+    border-top: 1px solid #898989;
+}
+.footer2-content {
+    font-size:14px;
+    color:#fff;
+    text-align:center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
